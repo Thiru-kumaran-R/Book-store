@@ -1,6 +1,4 @@
-# Let's generate a markdown file with the requested content
 
-readme_content = """
 # 📚 Book Store MERN Stack Project
 
 This is a **Book Store** web application built using the **MERN** stack (MongoDB, Express.js, React.js, and Node.js). It provides users with the ability to browse, search, purchase books, and manage their book inventory. This project follows the full-stack development architecture, utilizing **MongoDB** for data storage, **Express** and **Node.js** for the backend, and **React.js** for the frontend.
